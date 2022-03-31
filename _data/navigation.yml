@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: Our Mission
+    url: values
+  - title: People
+    url: people
+  - title: Drumming & Dance
+    url: drumming
+#  - title: News
+#    url: news
+  - title: Support
+    url: support
