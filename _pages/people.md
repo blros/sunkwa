@@ -4,15 +4,19 @@ title: People
 subtitle:
 permalink: people
 header:
-  image: /assets/img-sunkwa/banner1.jpg
+  image: /assets/img-sunkwa/banner3.jpg
 author_profile: true
 ---
 
-<p><img align="left" style="margin-right:15px; border:2px solid black;" src="/assets/img-sunkwa/christopher2.jpg" alt="Photograph of Kofi" width="100%" /></p>  
+
+<p><img align="center" style="margin-right:15px; border:2px solid black;" src="/assets/img-sunkwa/kofi-kaba2.jpg" alt="Photograph of Kofi" width="80%" /></p>  
+
+
+Co-founders and co-directors **Christopher Kofi Ametornyo** and **Godwin Kaba Sabore** bring decades of experience dancing and drumming with the nationally and world renowned Ghana Dance Ensemble. They are committed to introducing children to Ghana's Indigenous traditional drumming and dancing in order to appreciate and preserve Ghana' cultural heritage.
 
 <div style="clear:both" />
 
-Co-founders and co-directors **Christopher Kofi Ametornyo** and **Godwin Kaba Sabore** bring decades of experience dancing and drumming with the nationally and world renowned Ghana Dance Ensemble. They are committed to introducing children to Ghana's Indigenous traditional drumming and dancing in order to appreciate and preserve Ghana' cultural heritage.
+<hr />
 
 ## Christopher Kofi Ametornyo
 

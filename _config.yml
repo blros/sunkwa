@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Sunkwa"
-  avatar           : "/assets/img-sunkwa/sunkwa-logo.jpg"
+  avatar           : # "/assets/img-sunkwa/sunkwa-logo.jpg"
   bio              : ""
   location         : # "Somewhere"
   email            :
@@ -119,7 +119,7 @@ author:
       url: "https://twitter.com/sunkwa-academy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sunkwa-academy"
+      url: "https://instagram.com/sunkwa_music_dance_academy"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCrA_gaHFaD1LNx4cNcZ2JTQ"

@@ -4,7 +4,7 @@ title: Our Mission and Values
 subtitle:
 permalink: values
 header:
-  image: /assets/img-sunkwa/banner1.jpg
+  image: /assets/img-sunkwa/banner9.jpg
 author_profile: true
 ---
 

@@ -4,7 +4,7 @@ title: Support
 subtitle:
 permalink: support
 header:
-  image: /assets/img-sunkwa/banner1.jpg
+  image: /assets/img-sunkwa/banner5.jpg
 author_profile: true
 ---
 
