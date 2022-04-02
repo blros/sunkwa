@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-<p><img align="center" style="margin-right:15px; border:2px solid black;" src="/assets/img-sunkwa/kofi-kaba2.jpg" alt="Photograph of Kofi" width="80%" /></p>  
+<p><img align="center" style="margin-right:15px; border:2px solid black;" src="./assets/img-sunkwa/kofi-kaba2.jpg" alt="Photograph of Kofi and Kaba" width="80%" /></p>  
 
 
 Co-founders and co-directors **Christopher Kofi Ametornyo** and **Godwin Kaba Sabore** bring decades of experience dancing and drumming with the nationally and world renowned Ghana Dance Ensemble. They are committed to introducing children to Ghana's Indigenous traditional drumming and dancing in order to appreciate and preserve Ghana' cultural heritage.
@@ -20,7 +20,7 @@ Co-founders and co-directors **Christopher Kofi Ametornyo** and **Godwin Kaba Sa
 
 ## Christopher Kofi Ametornyo
 
-<p><img align="left" style="margin-right:15px; border:2px solid black;" src="/assets/img-sunkwa/kofi.jpg" alt="Photograph of Kofi" width="30%" />
+<p><img align="left" style="margin-right:15px; border:2px solid black;" src="./assets/img-sunkwa/kofi.jpg" alt="Photograph of Kofi" width="30%" />
 
 Christopher Ametornyo is a dance artist from the Ghana Dance Ensemble of the Institute of African Studies at the University of Ghana-Legon. Christopher has been with the Ensemble for more than 21 years and received his professional training there. He now acts as the principal dancer, soloist, and stage manager of the Ghana Dance Ensemble, and serves as a liaison between the Ensemble and the Institute of African Studies.</p>
 
@@ -28,7 +28,7 @@ Christopher Ametornyo is a dance artist from the Ghana Dance Ensemble of the Ins
 
 ## Godwin Kaba Sabore
 
-<p><img align="left" style="margin-right:15px; border:2px solid black;" src="/assets/img-sunkwa/kaaba.jpg" alt="Photograph of Kofi" width="30%" />
+<p><img align="left" style="margin-right:15px; border:2px solid black;" src="./assets/img-sunkwa/kaaba.jpg" alt="Photograph of Kaba" width="30%" />
 
 Sed ligula mi, consectetur id lorem ut, vestibulum auctor tortor. Curabitur ut massa diam. Sed commodo turpis ipsum, nec mollis purus hendrerit eget. Fusce non fermentum metus, vitae faucibus metus. In varius metus sit amet ante lacinia convallis. Curabitur consequat bibendum sem, sed molestie orci ornare at. Pellentesque id varius est, malesuada tristique leo. </p>
 
