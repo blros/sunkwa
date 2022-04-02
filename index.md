@@ -6,7 +6,7 @@ header:
   image: /assets/img-sunkwa/banner2.jpg
 ---
 
-<img src="/assets/img-sunkwa/sunkwa-logo2.jpg" align="left" style="margin-right:15px;" width="30%" />
+<img src="./assets/img-sunkwa/sunkwa-logo2.jpg" align="left" style="margin-right:15px;" width="30%" />
 
 Established in October 2020, Sunkwa ("cry for life") Music & Dance Academy is a non-profit art organization that works with vulnerable and less-privileged children in Adenta, a suburb of Accra, Ghana.
 
