@@ -30,6 +30,9 @@ Christopher Ametornyo is a dance artist from the Ghana Dance Ensemble of the Ins
 
 <p><img align="left" style="margin-right:15px; border:2px solid black;" src="./assets/img-sunkwa/kaaba.jpg" alt="Photograph of Kaba" width="30%" />
 
-Sed ligula mi, consectetur id lorem ut, vestibulum auctor tortor. Curabitur ut massa diam. Sed commodo turpis ipsum, nec mollis purus hendrerit eget. Fusce non fermentum metus, vitae faucibus metus. In varius metus sit amet ante lacinia convallis. Curabitur consequat bibendum sem, sed molestie orci ornare at. Pellentesque id varius est, malesuada tristique leo. </p>
+Godwin Kwamla Sabore is a drum maker and a formal dance artist from the Ghana Dance Ensemble of the Institute of African Studies at the University of Ghana-Legon. Godwin started drum making at the age of 13, and then developed an interest in drumming and dancing. In 1996 he joined the Amamremba dance group in Madina, and then moved to the Ghana Dance Ensemble in 2001.
+
+Godwin has also worked with Indigenous choreographers from around the world. 
+Some of his memorable performances includes the installation of Ghanaian President J. H. Kufour in 2005, the opening and closing ceremonies of the African Cup of Nations in Ghana in 2008, and other state functions in Ghana.</p>
 
 
