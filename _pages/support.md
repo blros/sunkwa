@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-Sunwa welcomes support through charitable donations of money and material supplies.
+Sunkwa welcomes support through charitable donations of money and material supplies.
 
 Monetary funds help support:
 * keeping the academy open
