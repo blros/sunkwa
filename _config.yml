@@ -114,16 +114,15 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://web.facebook.com/groups/664084780961807"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sunkwa-academy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sunkwa_music_dance_academy"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCrA_gaHFaD1LNx4cNcZ2JTQ"
-
+   # -  label: "Twitter"
+   #    icon: "fab fa-fw fa-twitter-square"
+   #    url: "https://twitter.com/sunkwa-academy"
 
 # Site Footer
 footer:
