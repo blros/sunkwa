@@ -12,7 +12,7 @@ author_profile: true
 
 Sunkwa Music and Dance Academy intends to work with the vulnerable and less privileged children in Adenta communities to holistically address and improve issues affecting their livehood most especially their education. We strive for ‘a community of empowered children playing roles as leaders and law-abiding citizens’.
 
-This mission will be implemented through joint planning with the community and in partnership with National and international Charitable Organizations, Local Assembles, Social Welfare Departments, Education and training providers, whose activities focus on empowering and promoting the welfare of children.
+This mission will be implemented through joint planning with the community and in partnership with national and international charitable organizations, local assemblies, social welfare departments, and education and training providers whose activities focus on empowering and promoting the welfare of children.
 
 ### Our Objectives
 
