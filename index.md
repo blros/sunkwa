@@ -17,7 +17,3 @@ The troupe is led by nationally renowned Ghanaian professional drummers and danc
 Sunkwa Music and Dance Academy is a charitable, voluntary, humanitarian, non-governmental, non-profit, non-political and non-partisan organization (NGO) and limited liability company (LLC).
 
 _**We invite you to explore and enjoy our website, follow us on social media, and [support](./support) the Academy and children if you are able.**_
-
-
-
-
