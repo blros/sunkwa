@@ -19,7 +19,7 @@ Monetary funds help support:
 * providing snacks for the students
 * transportation costs to performances
 * purchase of drum equipment, other musical instruments, and dance costumes
-* the acquistion of a permanent rehearsal space
+* the acquisition of a permanent rehearsal space
 
 
 _Sunkwa Music and Dance Academy is a charitable, voluntary, humanitarian, non-governmental, non-profit, non-political and non-partisan organization (NGO) and limited liability company (LLC)._
