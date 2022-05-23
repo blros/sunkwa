@@ -14,7 +14,7 @@ _See many more videos on our [YouTube channel.](https://www.youtube.com/channel/
 
 <hr />
 
-__Sunkwa students performing Kpatsa, a Ghanaian dance from the Ga-Adamgme people. It is sometime linked with puberty rites and rituals, but it also has multiple social roles.__
+__Sunkwa students performing Kpatsa, a Ghanaian dance from the Ga-Adamgme people. It is sometimes linked with puberty rites and rituals, but it also has multiple social roles.__
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SnyAKOCIuGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
