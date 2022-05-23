@@ -8,9 +8,9 @@ header:
 author_profile: true
 ---
 
-_Here we will be posting videos of Sunkwa performances and information about the traditional drums and dances of Ghana. Latest posts are on top_
+_Here we will be posting videos of Sunkwa performances and information about the traditional drums and dances of Ghana. Latest posts are on top._
 
-_See more on our [YouTube channel.](https://www.youtube.com/channel/UCrA_gaHFaD1LNx4cNcZ2JTQ)_
+_See many more videos on our [YouTube channel.](https://www.youtube.com/channel/UCrA_gaHFaD1LNx4cNcZ2JTQ)_
 
 <hr />
 
@@ -29,6 +29,14 @@ __Sunkwa students performing the Gota dance. The Gota is a social dance from the
 __Students practicing the Gota dance.__
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rABDUlJKOjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+__Performance of the Ghana Dance Ensemble, May 18, 2022, choreographed by Sunkwa co-director Christopher Ametoryno.--
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79o77Qdjvbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Bpypx9EoA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
