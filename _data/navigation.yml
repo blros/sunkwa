@@ -2,11 +2,9 @@
 main:
   - title: Our Mission
     url: values
-  - title: People
-    url: people
   - title: Drumming & Dance
     url: drumming
-#  - title: News
-#    url: news
+  - title: People
+    url: people
   - title: Support
     url: support
