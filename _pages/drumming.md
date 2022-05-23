@@ -14,12 +14,23 @@ _See more on our [YouTube channel.](https://www.youtube.com/channel/UCrA_gaHFaD1
 
 <hr />
 
+__Sunkwa students performing Kpatsa, a Ghanaian dance from the Ga-Adamgme people. It is sometime linked with puberty rites and rituals, but it also has multiple social roles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SnyAKOCIuGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 __Sunkwa students performing the Gota dance. The Gota is a social dance from the Volta Region of Ghana, featuring duets, usually of the of the opposite sex, with extended pauses and lots of torso and pelvic movement.__
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2uuxOxuFSLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
+__Students practicing the Gota dance.__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rABDUlJKOjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Bpypx9EoA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
