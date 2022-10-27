@@ -12,6 +12,25 @@ _Here we will be posting videos of Sunkwa performances and information about the
 
 _See many more videos on our [YouTube channel.](https://www.youtube.com/channel/UCrA_gaHFaD1LNx4cNcZ2JTQ)_
 
+<hr>
+
+__Performance of the Ghana Dance Ensemble, May 18, 2022, choreographed by Sunkwa co-director Christopher Ametoryno.__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfaFvqbcdp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79o77Qdjvbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+__Young students practicing the calabash__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THXbAyF9bvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+__
+
+
 <hr />
 
 __Sunkwa students performing Kpatsa, a Ghanaian dance from the Ga-Adamgme people. It is sometimes linked with puberty rites and rituals, but it also has multiple social roles.__
