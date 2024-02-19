@@ -11,7 +11,7 @@ author_profile: true
 Sunkwa welcomes support through charitable donations of money and material supplies. **We are grateful for any amount you can contribute.**
 
 
-<a href="https://fundly.com/sunkwa-music-and-dance"><button style="border:none; background-color: #4CAF50; padding: 14px 28px; font-size: 16px; cursor: pointer; display: inline-block; border-radius: 8px; color:#fff;"><strong>Donate</strong></button></a>
+<a href="https://fundly.com/sunkwa-music-dance-academy"><button style="border:none; background-color: #4CAF50; padding: 14px 28px; font-size: 16px; cursor: pointer; display: inline-block; border-radius: 8px; color:#fff;"><strong>Donate</strong></button></a>
 
 Monetary funds help support:
 * keeping the academy open
